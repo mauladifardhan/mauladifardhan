@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mauladifardhan
 - 👀 I’m interested in front end Developer Enthusiast
-- 🌱 I’m currently learning React JS, CSS, and HTML
+- 🌱 I’m currently learning React JS, Vue JS, Next Js, & Nuxt Js
 - 💞️ I’m looking to collaborate on with any system about website
 - 📫 How to reach me add me in instagram @mauladifardhan or linkedIn : fardhanmauladi
 
